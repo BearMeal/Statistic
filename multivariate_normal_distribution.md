@@ -1,4 +1,5 @@
 # multivariate_normal_distribution
+![다변량 정규분포](./images/MultivariateNormal.png)
 - $정규분포 N(\mu, \sigma) \\
 \mu는 평균(mean) \\ 
 \sigma^2는 분산(variance)$ \

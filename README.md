@@ -18,9 +18,30 @@
           - F-distribution
           - chi-squared distribution
 
+  - Multivariate statistics
+    - multivariate regression analysis
+    - principal component analysis (PCA)
+    - discrimnant analysis
+    - cluster analysis
+    - multivariate analysis of variance
+    - factor analysis
 
   - Inferential statistics
     - statistical methodology
+      - estimation
+      - testing
 
   - Descriptive statistics
+    - measures of central tendency
+    - measures of dispersion
+    - shape
+      - skewness
+      - kurtosis
+
+  - Bayesian statistics
+    - bayesian probability
+    - bayesian inference
+    - bayesian theorem
+
+
     
