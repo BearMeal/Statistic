@@ -1,10 +1,10 @@
 # 통계학 정복계획
 - 기초부터 천천히
-- 한문어 말고 영어 표현으로 공부한다.
+- 한문어 말고 영어 표현으로 공부한다. 논문은 죄다 영어다.
 - 개념을 분류해서 공부한다
 - [참고 자료](https://www.datadata.link/map/map-ds01/)
 
-## 종류 
+## 분류 (내맘대로)
 - Statistics
   - Mathematical statistics
     - probability theory
